@@ -21,5 +21,5 @@ I'm a 4th-year **Software Engineering** student at Samsun University, focused on
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/mustafa-karakoyun]
+* **LinkedIn:** linkedin.com/in/mustafa-karakoyun
 * **Email:** mustafa5karakoyun@gmail.com
